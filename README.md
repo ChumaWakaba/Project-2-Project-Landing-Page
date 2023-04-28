@@ -1,5 +1,3 @@
-# Project-3-Project-Landing-Page
-
 # Project Name: Project Landing Page!
 
 # Description
