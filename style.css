@@ -30,6 +30,7 @@ img {
 i {
   font-size: 4rem;
   color: rgb(255, 187, 0);
+  width: 70px;
 }
 
 .navbar ul {
@@ -96,10 +97,6 @@ button :hover {
   margin-top: 30px;
   padding: 30px;
 }
-
-/* .description {
-  margin: 0 auto;
-}   */
 
 /* .feature img {
   display: block;
